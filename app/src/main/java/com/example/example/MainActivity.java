@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-//유성 똥멍청
+//유성 똥멍청이 아니고 박찬영 똥멍청이
 
     }
 }
